@@ -5,8 +5,7 @@
   "display": "standalone",
   "theme_color": "#0d6efd",
   "background_color": "#ffffff",
-  "description": "It is a text utility",
-  "orientation": "landscape",
+  "description": "It is a text utility.",
   "icons": [
     {
       "src": "img/icons/maskable_icon_x48.png",
